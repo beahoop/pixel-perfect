@@ -46,6 +46,7 @@ html make the font size 10px */
 
 .nav-buttons li:hover {
   opacity: .5;
+  color: #D88462;
 }
 
 .nav-soical {
@@ -262,6 +263,10 @@ h5 {
   font-size: 15px;
   color: #757575;
 }
+.side-soical i:hover {
+  color: #D88462;
+  border: solid 1px #D88462;
+}
 
 .pop-post {
   padding: 0px;
@@ -273,6 +278,9 @@ h5 {
   margin-left: 28px;
   width: 240px;
   height: 160px;
+}
+.pop-post img:hover {
+  opacity: .5;
 }
 
 .pop-post, .latest-post, .inst-post {
@@ -349,6 +357,10 @@ h5 {
   margin-bottom: 16px;
 }
 
+.latest-post-img:hover {
+  opacity: .5;
+}
+
 .img1 {
   margin-bottom: 10px;
 }
@@ -375,6 +387,9 @@ h5 {
   line-height: 18px;
   padding: 0px 0px 0px 10px;
   text-transform: uppercase;
+}
+.latest-post-title:hover {
+  opacity: .5;
 }
 
 .latest-post-date {
@@ -404,6 +419,9 @@ h5 {
   width: 114px;
   padding: 0px 8px 5px 5px;
   height: 115px;
+}
+.inst-post img:hover {
+  opacity: .5;
 }
 
 
