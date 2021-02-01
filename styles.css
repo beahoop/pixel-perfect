@@ -479,8 +479,11 @@ a:link {
 
 .footer-images {
   display:flex;
+
   height: 188px;
+  width: 180px;
 }
 .footer-images img {
+   
   width: 100%;
 }
